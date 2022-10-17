@@ -1,2 +1,2 @@
-# F8_MERN
-A https://fullstack.edu.vn/ clone using MERN stack
+Te-Technology Education
+Where you can learn to become Developer pro
